@@ -1,7 +1,7 @@
 <?= $this->extend('layout/defaultlayout') ?>
 <?= $this->section('content') ?>
 <div class="content">
-    <h2>Welcome, Admin  <span style="font-size:30px;">👋</span>
+    <h2>Welcome, Admin  dashboard <span style="font-size:30px;">👋</span>
     </h2>
     <div class="container mt-5">
         <div class="row text-center">
